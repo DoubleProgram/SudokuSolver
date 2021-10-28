@@ -144,6 +144,3 @@ void Print(const Sudoku& sudoku){
           std::cout << "-------------------" << std::endl;
     }
 }
-
-
-
